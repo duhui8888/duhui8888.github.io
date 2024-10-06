@@ -3,7 +3,7 @@
     "subTitle":"记录一些杂事",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
-     "displayTitle":"Meekdai",
+     "displayTitle":"Hello",
 "homeUrl":"https://duhui8888.github.io/",
 "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
 "email":"",
@@ -32,5 +32,7 @@
 "bottomText":"转 载 请 注 明 出 处",
 "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
 "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
-"needComment":1
+"needComment":1,
+"allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"   
 }
